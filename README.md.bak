@@ -66,11 +66,3 @@ Host: localhost:5555
 
 ```
 gAAAAABiaaMKrHsm5PzcLu3qlrkZYSEs_KR3xhLrHMh8DEKwdjeJZ71YEUvRP1q0O1YRSLmeOVtTa0kgyart-2FaJRZcdpQVlCiSiSSBs7Sz6_hhfqpsN1oqjYvZN3iaF4SI1TosFky5BDhekjKQ78f1qgew5FSS7ZXe6KTKBh1EImKdUsXXEUCRl2DOyCfSUvAdTnXluxfz8gAPi2n5fNc-vvMejEsSfUK9NFDaDok11cQND7iXkzY=
-
-
-
-Eksikler:
-Docker konfigürasyonu yok.
-Arayüzde etkinlik silme özelliği yok.
-Arayüzde eski etkinlikler gözükmüyor.
-Redis kullanılmadı.
