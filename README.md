@@ -1,5 +1,9 @@
 # Microservice Gateway
 
+Microservices run at localhost:3333,localhost:4444,localhost:5555.
+Interface run at localhost:3000.
+
+
 ### Endpoints:
 
 #### Add User
